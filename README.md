@@ -221,7 +221,6 @@ Used for:
 
 **Udai Kiran**
 
-AI Engineering Internship Assignment
 
 ---
 
