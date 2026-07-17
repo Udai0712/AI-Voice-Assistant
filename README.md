@@ -4,7 +4,7 @@ A real-time **Audio-In, Audio-Out Conversational AI Assistant** built using Pyth
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🎤 Voice-based user interaction
 - 📝 Speech-to-Text using Whisper
@@ -18,7 +18,7 @@ A real-time **Audio-In, Audio-Out Conversational AI Assistant** built using Pyth
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -122,7 +122,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Workflow
+## Workflow
 
 ```
 User Voice
@@ -151,7 +151,7 @@ Voice Output
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Fast conversational responses
 - Natural voice interaction
@@ -205,7 +205,7 @@ Used for:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Wake-word detection
 - Offline speech recognition
@@ -217,13 +217,13 @@ Used for:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Udai Kiran**
 
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for educational and internship evaluation purposes.
